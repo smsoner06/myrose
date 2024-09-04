@@ -1,0 +1,4 @@
+lxml
+python-telegram-bot
+requests
+apscheduler
