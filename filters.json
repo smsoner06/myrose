@@ -1,0 +1,812 @@
+{
+    "seko": {
+        "response": "{user_name} Link burada.",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "http://example.com"
+            }
+        ]
+    },
+    "baywinlink": {
+        "response": "{user_name},Baywin 300TL Deneme Bonusu",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/baywinbonus"
+            }
+        ]
+    },
+    "hasbetlink": {
+        "response": "{user_name},Hasbet 500TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/hasbet"
+            }
+        ]
+    },
+    "betbupliclink": {
+        "response": "{user_name},Betbuplic 300TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betbuplic"
+            }
+        ]
+    },
+    "starzbetlink": {
+        "response": "{user_name},Starzbet 300TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/starzbet"
+            }
+        ]
+    },
+    "bycasinolink": {
+        "response": "{user_name},Bycasino 300TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/Iw0Uvz7i"
+            }
+        ]
+    },
+    "zbahislink": {
+        "response": "{user_name},Zbahis 500TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/sw67pkDW"
+            }
+        ]
+    },
+    "fixbetlink": {
+        "response": "{user_name},Fixbet 555TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/fixbet"
+            }
+        ]
+    },
+    "bayspinlink": {
+        "response": "{user_name},Bayspin 555TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/bayspinbonus"
+            }
+        ]
+    },
+    "zlotlink": {
+        "response": "{user_name},Zlot 777TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/ieaiCOob"
+            }
+        ]
+    },
+    "betlotolink": {
+        "response": "{user_name},Betloto 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betloto"
+            }
+        ]
+    },
+    "kralbetlink": {
+        "response": "{user_name},Kralbet 400TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/kralbetgiris"
+            }
+        ]
+    },
+    "xslotlink": {
+        "response": "{user_name},Xslot 1000TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/xslotbonus"
+            }
+        ]
+    },
+    "bankobetlink": {
+        "response": "{user_name},Bankobet 777TL Bonus",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/6ehJUo2V"
+            }
+        ]
+    },
+    "tarafbetlink": {
+        "response": "{user_name},Tarafbet 400TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/4w9nkmcz"
+            }
+        ]
+    },
+    "betkomlink": {
+        "response": "{user_name},Betkom 666TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betkomgir"
+            }
+        ]
+    },
+    "antikbetlink": {
+        "response": "{user_name},Antikbet 100 TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/antikbet"
+            }
+        ]
+    },
+    "betrewardlink": {
+        "response": "{user_name},Betreward 200 TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betrewardgiris"
+            }
+        ]
+    },
+    "supertotobetlink": {
+        "response": "{user_name},Supertotobet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/Ew882EAi"
+            }
+        ]
+    },
+    "spincolink": {
+        "response": "{user_name},Spinco 200TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/spinco"
+            }
+        ]
+    },
+    "superbetlink": {
+        "response": "{user_name},Superbet 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/superbet"
+            }
+        ]
+    },
+    "betinelink": {
+        "response": "{user_name},Betine 444TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betinebonus"
+            }
+        ]
+    },
+    "betorspinlink": {
+        "response": "{user_name},Betorspin 300TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betorspingir"
+            }
+        ]
+    },
+    "betturkeylink": {
+        "response": "{user_name},Betturkey 500TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betturkeygir"
+            }
+        ]
+    },
+    "grandpashabetlink": {
+        "response": "{user_name},Grandpashabet 300TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/grandbonus"
+            }
+        ]
+    },
+    "milyarlink": {
+        "response": "{user_name},Milyar %100",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/milyartg"
+            }
+        ]
+    },
+    "betchiplink": {
+        "response": "{user_name},Betchip %100",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betchipgiris"
+            }
+        ]
+    },
+    "davegaslink": {
+        "response": "{user_name},DaVegas 5000TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/davegasbonus"
+            }
+        ]
+    },
+    "tipobetlink": {
+        "response": "{user_name},Tipobet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/tipobetgir"
+            }
+        ]
+    },
+    "nakitbahislink": {
+        "response": "{user_name},Nakitbahis 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/nakitbahisbonus"
+            }
+        ]
+    },
+    "rolettolink": {
+        "response": "{user_name},Roletto 50Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/nelHizyW"
+            }
+        ]
+    },
+    "tamambetlink": {
+        "response": "{user_name},Tamambet 50Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://cutt.ly/selHs4EB"
+            }
+        ]
+    },
+    "pusulabetlink": {
+        "response": "{user_name},Pusulabet 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/pusulabetgir"
+            }
+        ]
+    },
+    "dogobetlink": {
+        "response": "{user_name},Dogobet 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/dogobetbonus"
+            }
+        ]
+    },
+    "matadorbetlink": {
+        "response": "{user_name},Matadorbet 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/matadorbetbonus"
+            }
+        ]
+    },
+    "bahisfairlink": {
+        "response": "{user_name},Bahisfair 777Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/bahisfairgiris"
+            }
+        ]
+    },
+    "enbetlink": {
+        "response": "{user_name},Enbet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/enbet"
+            }
+        ]
+    },
+    "betplaylink": {
+        "response": "{user_name},Betplay 250Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betplay"
+            }
+        ]
+    },
+    "farkbetlink": {
+        "response": "{user_name},Farkbet 444Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/farkbetgiris"
+            }
+        ]
+    },
+    "casinopoplink": {
+        "response": "{user_name},Casinopop 444Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/casinopop"
+            }
+        ]
+    },
+    "atlasbetlink": {
+        "response": "{user_name},Atlasbet 35TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/atlasbetbonus"
+            }
+        ]
+    },
+    "r\u00fcyabetlink": {
+        "response": "{user_name},R\u00fcyabet Giri\u015f 777Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/ruyabetgir"
+            }
+        ]
+    },
+    "casinomilyonlink": {
+        "response": "{user_name},Casinomilyon 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/casinomilyongir"
+            }
+        ]
+    },
+    "meybetlink": {
+        "response": "{user_name},Meybet 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/meybetgir"
+            }
+        ]
+    },
+    "alobetlink": {
+        "response": "{user_name},Alobet 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/alobetgir"
+            }
+        ]
+    },
+    "sonbahislink": {
+        "response": "{user_name},Sonbahis 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/sonbahisgir"
+            }
+        ]
+    },
+    "nesinecasinolink": {
+        "response": "{user_name},NesineCasino 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/nesinecasinogir"
+            }
+        ]
+    },
+    "casinoroyallink": {
+        "response": "{user_name},Casinoroyal 555Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/casinoroyalgir"
+            }
+        ]
+    },
+    "macbetlink": {
+        "response": "{user_name},Macbet 555Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/macbet"
+            }
+        ]
+    },
+    "vipslotlink": {
+        "response": "{user_name},Vipslot 444Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/vipslotgir"
+            }
+        ]
+    },
+    "gameofbetlink": {
+        "response": "{user_name},Gameofbet 333Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/gameofbetgir"
+            }
+        ]
+    },
+    "puntobahislink": {
+        "response": "{user_name},Puntobahis 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/puntobahis"
+            }
+        ]
+    },
+    "polobetlink": {
+        "response": "{user_name},Polobet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/polobetgir"
+            }
+        ]
+    },
+    "onwinlink": {
+        "response": "{user_name},Onwin 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/onwingir"
+            }
+        ]
+    },
+    "vipparklink": {
+        "response": "{user_name},Vippark 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/vipparktg"
+            }
+        ]
+    },
+    "galabetlink": {
+        "response": "{user_name},Galabet 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/galabetbonus"
+            }
+        ]
+    },
+    "sahabetlink": {
+        "response": "{user_name},Sahabet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/sahabetgir"
+            }
+        ]
+    },
+    "sekabetlink": {
+        "response": "{user_name},Sekabet 100Freespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/sekabetgiris"
+            }
+        ]
+    },
+    "dumanbetlink": {
+        "response": "{user_name},Dumanbet 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/dumanbetgiris"
+            }
+        ]
+    },
+    "maltcasinolink": {
+        "response": "{user_name},Maltcasino 200TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/maltcasinogir"
+            }
+        ]
+    },
+    "siyahbetlink": {
+        "response": "{user_name},Siyahbet 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/siyahbetbonus"
+            }
+        ]
+    },
+    "pekinbetlink": {
+        "response": "{user_name},Pekinbet 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/pekinbetbonus"
+            }
+        ]
+    },
+    "nisanbetlink": {
+        "response": "{user_name},Nisanbet 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/nisanbetgir"
+            }
+        ]
+    },
+    "betmabetlink": {
+        "response": "{user_name},Betmabet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betmabet"
+            }
+        ]
+    },
+    "epikbahislink": {
+        "response": "{user_name},Epikbahis 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/epikbahisgir"
+            }
+        ]
+    },
+    "ganobetlink": {
+        "response": "{user_name},Ganobet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/ganobetgir"
+            }
+        ]
+    },
+    "yedibahislink": {
+        "response": "{user_name},Yedibahis 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/yedibahisbonus"
+            }
+        ]
+    },
+    "showbetlink": {
+        "response": "{user_name},Showbet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/showbetbonus"
+            }
+        ]
+    },
+    "betofficelink": {
+        "response": "{user_name},Betoffice 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://fnyn.cc/betoffice"
+            }
+        ]
+    },
+    "hitbetlink": {
+        "response": "{user_name},Hitbet 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://fnyn.cc/hitbet"
+            }
+        ]
+    },
+    "winxbetlink": {
+        "response": "{user_name},Winxbet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/winxbetgir"
+            }
+        ]
+    },
+    "bahisallink": {
+        "response": "{user_name},Bahisal 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/bahisalgiris"
+            }
+        ]
+    },
+    "betkanyonlink": {
+        "response": "{user_name},Betkanyon 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betkanyongir"
+            }
+        ]
+    },
+    "bahislionlink": {
+        "response": "{user_name},Bahislion 50TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/bahisliongir"
+            }
+        ]
+    },
+    "smartbahislink": {
+        "response": "{user_name},Smartbahis 300TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/smartbahisgir"
+            }
+        ]
+    },
+    "ultrabetlink": {
+        "response": "{user_name},Ultrabet 225TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/ultrabetgir"
+            }
+        ]
+    },
+    "setrabetlink": {
+        "response": "{user_name},Setrabet 250TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/setrabetgir"
+            }
+        ]
+    },
+    "betkoliklink": {
+        "response": "{user_name},Betkolik 275TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betkolikgir"
+            }
+        ]
+    },
+    "masterbettinglink": {
+        "response": "{user_name},Masterbetting",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/Masterbetting"
+            }
+        ]
+    },
+    "atlantisbahislink": {
+        "response": "{user_name},Atlantisbahis 100TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/atlantisbahisgir"
+            }
+        ]
+    },
+    "orisbetlink": {
+        "response": "{user_name},Orisbet 300",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/Orisbett"
+            }
+        ]
+    },
+    "oslobetlink": {
+        "response": "{user_name},Oslobet",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/HP_e"
+            }
+        ]
+    },
+    "maksibetlink": {
+        "response": "{user_name},Maksibet",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/wQMe"
+            }
+        ]
+    },
+    "\u015futbetlink": {
+        "response": "{user_name},\u015eutbet",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/D2VZ1"
+            }
+        ]
+    },
+    "betpaslink": {
+        "response": "{user_name},Betpas 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betpasgir"
+            }
+        ]
+    },
+    "restbetlink": {
+        "response": "{user_name},Restbet 150TL",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/restbetgir"
+            }
+        ]
+    },
+    "markajlink": {
+        "response": "{user_name},Markaj 200",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/markajgir"
+            }
+        ]
+    },
+    "i\u0307kimislilink": {
+        "response": "{user_name},\u0130kimisli 200",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/ikimisligir"
+            }
+        ]
+    },
+    "betellilink": {
+        "response": "{user_name},Betelli 75Feespin",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/betellibonus"
+            }
+        ]
+    },
+    "hovardalink": {
+        "response": "{user_name},Hovarda %300",
+        "buttons": [
+            {
+                "text": "Siteye Git",
+                "url": "https://t.ly/hovardabonus"
+            }
+        ]
+    }
+}
